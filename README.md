@@ -3,7 +3,9 @@ TimeCAP introduces the first purely channel-aware pre-training framework for mul
 
 This repository corresponds to the official implementation of the AAAI 2026 paper “TimeCAP: A Channel-Aware Pre-Training Framework for Multivariate Time Series Forecasting.” 
 
-
+<p align="center">
+  <img src="TimeCAP.png" width="800">
+</p>
 
 
 
