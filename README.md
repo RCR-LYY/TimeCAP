@@ -7,9 +7,11 @@ This repository corresponds to the official implementation of the AAAI 2026 pape
   <img src="TimeCAP.png" width="800">
 </p>
 
+## Citation
 
-If you find this repository or our work useful for your research, please consider citing our paper:
+If you find this work useful, please consider citing our paper:
 
+```bibtex
 @inproceedings{ren2026timecap,  
   title={TimeCAP: A Channel-Aware Pre-Training Framework for Multivariate Time Series Forecasting},  
   author={Ren, Chuanru and Lu, Yao and Huang, Tianjin and Zheng, Haowen and Zhu, Hengde and Li, Yunyin and Li, Hengxiao and Liu, Lu},  
