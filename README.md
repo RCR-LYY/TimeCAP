@@ -10,13 +10,13 @@ This repository corresponds to the official implementation of the AAAI 2026 pape
 
 If you find this repository or our work useful for your research, please consider citing our paper:
 
-@inproceedings{ren2026timecap,
-  title={TimeCAP: A Channel-Aware Pre-Training Framework for Multivariate Time Series Forecasting},
-  author={Ren, Chuanru and Lu, Yao and Huang, Tianjin and Zheng, Haowen and Zhu, Hengde and Li, Yunyin and Li, Hengxiao and Liu, Lu},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={40},
-  number={30},
-  pages={25108--25116},
-  year={2026}
-}
+@inproceedings{ren2026timecap,  
+  title={TimeCAP: A Channel-Aware Pre-Training Framework for Multivariate Time Series Forecasting},  
+  author={Ren, Chuanru and Lu, Yao and Huang, Tianjin and Zheng, Haowen and Zhu, Hengde and Li, Yunyin and Li, Hengxiao and Liu, Lu},  
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},  
+  volume={40},  
+  number={30},  
+  pages={25108--25116},  
+  year={2026}  
+}  
 
